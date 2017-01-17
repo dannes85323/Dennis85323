@@ -1,4 +1,4 @@
-## 不死鳥－落地生根
+## **不死鳥－落地生根**
 落地生根（學名：Bryophyllum pinnatum），又稱葉生、天燈籠、大還魂、倒地蓮、倒吊蓮、打不死，原產地為非洲。
 ![description](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Kalanchoe_pinnata_%28Habitus%29.jpg/800px-Kalanchoe_pinnata_%28Habitus%29.jpg)
 
@@ -6,27 +6,9 @@
 
 因為花的形狀好像許多燈籠倒吊著，所以在民間也叫做燈籠花、吊鐘花等名稱，落地生根是民間常用的藥用植物，生性耐建，和景天科其他著名植物如長春花、石蓮花都有**極強的生命力**，因此有**長壽與堅忍**的代表寓意。
 ![description](https://upload.wikimedia.org/wikipedia/commons/5/50/Kalanchoe_veg.jpg)
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
+### **二、常見品種介紹**
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dannes85323/Dennis85323/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
