@@ -1,9 +1,9 @@
 ## 不死鳥－落地生根
 落地生根（學名：Bryophyllum pinnatum），又稱葉生、天燈籠、大還魂、倒地蓮、倒吊蓮、打不死，原產地為非洲。
- ![](https://zh.wikipedia.org/wiki/%E8%90%BD%E5%9C%B0%E7%94%9F%E6%A0%B9#/media/File:Kalanchoe_pinnata_(Habitus).jpg)
+![description](https://zh.wikipedia.org/wiki/%E8%90%BD%E5%9C%B0%E7%94%9F%E6%A0%B9#/media/File:Kalanchoe_pinnata_(Habitus).jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-### Markdown
+
+將其葉放在泥土中，葉邊的一點即能發芽生長，不必依賴種子繁殖，故名落地生根。若將它屈折或打斷，其葉著地即能生長，故亦有打不死之名。具有**止血、消炎、止痛、消腫解毒**之功效。但脾胃虛寒者慎服。此外也可做切花、盆栽、花壇和庭園露地栽培。
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
