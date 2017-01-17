@@ -10,15 +10,30 @@
 
 ### **二、常見品種介紹**
 
+
+
 大葉落地生根
 ![description](https://i2.read01.com/image.php?url=0CfTfG03)
+
+
 
 棒葉不死鳥
 ![description](https://i1.read01.com/image.php?url=0CfTfG04)
 
+
+
+
 窄葉不死鳥
 ![description](https://i1.read01.com/image.php?url=0CfTfG06)
+
+
+
+
+
 ##結語
+
+
+
 將其葉放在泥土中，葉邊的一點即能發芽生長，不必依賴種子繁殖，故名落地生根。
 若將它屈折或打斷，其葉著地即能生長，故亦有打不死之名。
 **是很容易入門養植的植物喔!**
